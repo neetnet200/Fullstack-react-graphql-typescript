@@ -1,0 +1,27 @@
+{
+  "name": "fullstack-react-graphql-typescript",
+  "version": "1.0.0",
+  "description": "Backend &amp; frontend with graphql",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "tsc -w",
+    "start": "ts-node src/index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neetnet200/Fullstack-react-graphql-typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neetnet200/Fullstack-react-graphql-typescript/issues"
+  },
+  "homepage": "https://github.com/neetnet200/Fullstack-react-graphql-typescript#readme",
+  "devDependencies": {
+    "@types/node": "^18.0.3",
+    "ts-node": "^10.8.2",
+    "typescript": "^4.7.4"
+  }
+}
